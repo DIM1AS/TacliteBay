@@ -1,7 +1,7 @@
 # TacliteBay
 
 TacliteBay - Интернет-магазин военных товаров
-Описание
+
 TacliteBay - это интернет-магазин, специализирующийся на продаже военных товаров. Проект был разработан в рамках дипломной работы и включает в себя функционал для удобного и безопасного приобретения товаров.
 Функциональность
 Главная страница: Интуитивно понятный интерфейс для навигации и поиска товаров.
@@ -18,7 +18,7 @@ Backend: PHP
 =========================================================
 
 TacliteBay - Military Goods Online Store
-Description
+
 TacliteBay is an online store specializing in military goods. The project was developed as part of a diploma thesis and includes functionality for convenient and secure purchasing of goods.
 Features
 Home Page: Intuitive interface for navigation and product search.
